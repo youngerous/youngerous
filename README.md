@@ -4,7 +4,13 @@
 
 </div>
 
-<i align=center> "Engineers make things, industrial engineers make things better" </i>
+<div align=center>
+  
+<i> "Engineers make things, industrial engineers make things better" </i>
+
+</div>
+
+
   
 ## Takyoung Kim 🎨
 
