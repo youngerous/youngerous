@@ -8,7 +8,7 @@
 
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://youngerous.github.io/)](https://youngerous.github.io/) 
+[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://youngerous.github.io/)](https://youngerous.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/takyoung-kim-03b091193/)](https://www.linkedin.com/in/takyoung-kim-03b091193/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youngerous@gmail.com)](mailto:youngerous@gmail.com)
 
@@ -18,7 +18,7 @@
 
 
 ### Education
-- ```2020-``` M.S. Student at Data Science & Business Analytics Lab., School of Industrial Management Engineering, Korea University.
+- ```2020-``` M.S. Student at [Data Science & Business Analytics Lab.](http://dsba.korea.ac.kr/), School of Industrial Management Engineering, Korea University.
 - ```2017-2020``` Bachelor of Science in Engineering, Samsung Convergence Software Course(SCSC), Sungkyunkwan University.
 - ```2013-2020``` Bachelor of Media & Communication, Media & Communication, Sungkyunkwan University
 
