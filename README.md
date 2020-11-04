@@ -19,7 +19,7 @@
 
 ### Education
 - ```2020-``` M.S. Student at [Data Science & Business Analytics Lab.](http://dsba.korea.ac.kr/), School of Industrial Management Engineering, Korea University.
-- ```2017-2020``` Bachelor of Science in Engineering, Samsung Convergence Software Course(SCSC), Sungkyunkwan University.
+- ```2013-2020``` Bachelor of Science in Engineering, Interdisciplinary Program of Convergent Software, Sungkyunkwan University.
 - ```2013-2020``` Bachelor of Media & Communication, Media & Communication, Sungkyunkwan University.
 
 
