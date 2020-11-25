@@ -8,7 +8,8 @@
 
 <div align=center>
 
-[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://youngerous.github.io/)](https://youngerous.github.io/) 
+[![Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://youngerous.github.io/)](https://youngerous.github.io/) 
+[![Blog Badge](http://img.shields.io/badge/-Study%20Note-black?style=flat-square&logo=github&link=https://youngerous.github.io/note/)](https://youngerous.github.io/note/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/takyoung-kim-03b091193/)](https://www.linkedin.com/in/takyoung-kim-03b091193/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:takyoung_kim@korea.ac.kr)](mailto:takyoung_kim@korea.ac.kr)
 
