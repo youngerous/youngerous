@@ -1,5 +1,4 @@
-Hi there 👋, I am M.S. student in Industrial & Management Engineering, Korea University advised by Pilsung Kang. <br>
-Currently I belong to [Data Science & Business Analytics Lab.](http://dsba.korea.ac.kr/), and I'm focusing on real-world natural language processing.
+Hi there👋, my research interest is focused on <i>real-world</i> natural language processing.
 
 ### 📌 Contact Information
 
