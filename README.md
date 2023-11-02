@@ -3,6 +3,6 @@ Hi there👋. My research interest is focused on <i>real-world</i> natural langu
 ### 📌 Contact Information
 
 - Email: ```firstname```_```lastname```[at]korea.ac.kr <br>
-- Personal homepage: [youngerous.github.io](https://youngerous.github.io) <br>
+- Personal Website: [youngerous.github.io](https://youngerous.github.io) <br>
 - LinkedIn: www.linkedin.com/in/youngerous <br>
 - Twitter: [@takyoung_kim](https://twitter.com/takyoung_kim)
